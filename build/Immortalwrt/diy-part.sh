@@ -2,10 +2,6 @@
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
 # DIY扩展二合一了，在此处可以增加插件
 #git clone https://github.com/douglarek/luci-app-homeproxy
-https://github.com/kenzok8/small-package/tree/main/luci-app-jellyfin
-https://github.com/kenzok8/small-package/tree/main/luci-app-quickstart
-https://github.com/kenzok8/small-package/tree/main/luci-app-wireguard
-https://github.com/kenzok8/small-package/tree/main/quickstart
 # 自行拉取插件之前请SSH连接进入固件配置里面确认过没有你要的插件再单独拉取你需要的插件
 # 不要一下就拉取别人一个插件包N多插件的，多了没用，增加编译错误，自己需要的才好
 
